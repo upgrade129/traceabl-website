@@ -1,0 +1,49 @@
+.flexDisplay {
+    display: flex;
+    gap: 1rem;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+
+.flexDisplay span {
+    height: 13px;
+    width: 13px;
+    font-size: 9px;
+    color: #fff !important;
+    font-weight: 600;
+    background-color: red;
+    border-radius: 50%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.close-icon {
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 0.5rem;
+}
+
+.close-icon:hover {
+    transform: scale(1.1);
+    transition: all 0.3s ease-in-out;
+}
+
+.file_support {
+    font-size: 11px;
+}
+
+.upload_file_container {
+    width: 100px;
+    height: 40px;
+    position: relative;
+    /* background(your img); */
+}
+
+.upload_file_container input {
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    cursor: pointer;
+}

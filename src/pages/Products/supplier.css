@@ -1,0 +1,11 @@
+.buttonFix {
+    background-color: #5b73e8;
+  color: white;
+  font-size: 15px;
+  padding: 3px 20px;
+  border-radius: 5px;
+  margin: 10px 0px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  }

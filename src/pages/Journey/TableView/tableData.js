@@ -1,0 +1,48 @@
+export const tableData = [
+  {
+    pro_Id: "MB2540",
+    pro_name: "Product 1",
+    dt_update: "07 Oct , 2019",
+    stage: "Stitching",
+    category: "Jeans",
+    season: "SS-21",
+    progress: 25,
+  },
+  {
+    pro_Id: "MB5440",
+    pro_name: "Product 2",
+    dt_update: "06 Sep , 2020",
+    stage: "Stitching",
+    category: "Trouser",
+    season: "SS-22",
+    progress: 30,
+  },
+  {
+    pro_Id: "MB2230",
+    pro_name: "Product 3",
+    dt_update: "08 Aug , 2021",
+    stage: "Dyeing",
+    category: "Shirt",
+    season: "SS-24",
+    progress: 25,
+  },
+
+  {
+    pro_Id: "MB2550",
+    pro_name: "Product 4",
+    dt_update: "06 July , 2018",
+    stage: "Stitching",
+    category: "Jeans",
+    season: "SS-21",
+    progress: 50,
+  },
+  {
+    pro_Id: "MB2542",
+    pro_name: "Product 4",
+    dt_update: "21 Jan , 2021",
+    stage: "Dyeing",
+    category: "Jeans",
+    season: "SS-26",
+    progress: 75,
+  },
+];
